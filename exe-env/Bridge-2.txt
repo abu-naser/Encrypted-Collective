@@ -1,0 +1,486 @@
+SLURM_MPI_TYPE=none
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.m4a=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.oga=01;36:*.opus=01;36:*.spx=01;36:*.xspf=01;36:
+SRUN_DEBUG=3
+SLURM_STEP_ID=4294967290
+SLURM_NODEID=0
+SLURM_TASK_PID=3152238
+__LMOD_REF_COUNT_PATH=/opt/packages/allocations/bin:1;/jet/home/USER/.local/bin:2;/jet/home/USER/bin:2;/usr/local/bin:1;/usr/bin:1;/usr/local/sbin:1;/usr/sbin:1;/bin:2;/opt/packages/interact/bin:1;/opt/puppetlabs/bin:1
+_ModuleTable002_=IiwiL3Vzci9zaGFyZS9tb2R1bGVmaWxlcy9Db3JlIiwiL3Vzci9zaGFyZS9sbW9kL2xtb2QvbW9kdWxlZmlsZXMvQ29yZSIsfSxbInN5c3RlbUJhc2VNUEFUSCJdPSIvb3B0L21vZHVsZWZpbGVzOi9ldGMvbW9kdWxlZmlsZXM6L3Vzci9zaGFyZS9tb2R1bGVmaWxlczovdXNyL3NoYXJlL21vZHVsZWZpbGVzL0xpbnV4Oi91c3Ivc2hhcmUvbW9kdWxlZmlsZXMvQ29yZTovdXNyL3NoYXJlL2xtb2QvbG1vZC9tb2R1bGVmaWxlcy9Db3JlIix9
+SSH_CONNECTION=73.118.10.14 50168 128.182.81.31 22
+SLURM_PRIO_PROCESS=0
+SALLOC_PARTITION=RM
+_=/usr/bin/env
+LANG=en_US.UTF-8
+SLURM_SUBMIT_DIR=/jet/home/USER/Experiments/EncColls/EncAlltoall
+HISTCONTROL=ignoredups
+HOSTNAME=br013.ib.bridges2.psc.edu
+OLDPWD=/jet/home/USER/Experiments
+__LMOD_REF_COUNT__LMFILES_=/opt/modulefiles/allocations/1.0.lua:1
+SLURM_STEPID=4294967290
+SLURM_SRUN_COMM_HOST=10.8.11.31
+SLURM_DISTRIBUTION=cyclic
+SLURM_PROCID=0
+SLURM_JOB_GID=24526
+SLURMD_NODENAME=r269
+LOCAL=/local
+SLURM_TASKS_PER_NODE=128
+XDG_SESSION_ID=89211
+SLURM_NNODES=1
+USER=USER
+SLURM_LAUNCH_NODE_IPADDR=10.8.11.31
+SLURM_STEP_TASKS_PER_NODE=1
+__LMOD_REF_COUNT_MODULEPATH=/opt/modulefiles:1;/etc/modulefiles:1;/usr/share/modulefiles:1;/usr/share/modulefiles/Linux:1;/usr/share/modulefiles/Core:1;/usr/share/lmod/lmod/modulefiles/Core:1
+__LMOD_REF_COUNT_LOADEDMODULES=allocations/1.0:1
+PWD=/jet/home/USER/Experiments/AD
+RAMDISK=/dev/shm
+MYPROXY_SERVER=myproxy.xsede.org,myproxy.psc.xsede.org
+SLURM_JOB_NODELIST=r269
+HOME=/jet/home/USER
+SLURM_CLUSTER_NAME=bridges2
+SLURM_NODELIST=r269
+SSH_CLIENT=73.118.10.14 42132 22
+LMOD_VERSION=8.2.7
+TMUX=/tmp//tmux-60409/default,2404364,2
+SLURM_JOB_CPUS_PER_NODE=128
+BASH_ENV=/usr/share/lmod/lmod/init/bash
+SLURM_TOPOLOGY_ADDR=r269
+PROJECT=/ocean/projects/ccr200025p/USER
+SLURM_WORKING_CLUSTER=bridges2:br003:6814:9216:109
+SLURM_STEP_NODELIST=r269
+SLURM_JOB_NAME=Interact
+SLURM_SRUN_COMM_PORT=40091
+TMPDIR=/tmp
+LMOD_sys=Linux
+SLURM_JOBID=670961
+_ModuleTable001_=X01vZHVsZVRhYmxlXz17WyJNVHZlcnNpb24iXT0zLFsiY19yZWJ1aWxkVGltZSJdPWZhbHNlLFsiY19zaG9ydFRpbWUiXT1mYWxzZSxkZXB0aFQ9e30sZmFtaWx5PXt9LG1UPXthbGxvY2F0aW9ucz17WyJmbiJdPSIvb3B0L21vZHVsZWZpbGVzL2FsbG9jYXRpb25zLzEuMC5sdWEiLFsiZnVsbE5hbWUiXT0iYWxsb2NhdGlvbnMvMS4wIixbImxvYWRPcmRlciJdPTEscHJvcFQ9e30sWyJzdGFja0RlcHRoIl09MCxbInN0YXR1cyJdPSJhY3RpdmUiLFsidXNlck5hbWUiXT0iYWxsb2NhdGlvbnMiLH0sfSxtcGF0aEE9eyIvb3B0L21vZHVsZWZpbGVzIiwiL2V0Yy9tb2R1bGVmaWxlcyIsIi91c3Ivc2hhcmUvbW9kdWxlZmlsZXMiLCIvdXNyL3NoYXJlL21vZHVsZWZpbGVzL0xpbnV4
+SLURM_CONF=/var/spool/slurm/d/conf-cache/slurm.conf
+LOADEDMODULES=allocations/1.0
+SLURM_NODE_ALIASES=(null)
+SLURM_JOB_QOS=rminteract
+LMOD_ROOT=/usr/share/lmod
+SLURM_TOPOLOGY_ADDR_PATTERN=node
+SSH_TTY=/dev/pts/268
+SUDO_PROMPT=Password for %u@PSC.EDU 
+MAIL=/var/spool/mail/USER
+SLURM_CPUS_ON_NODE=128
+SLURM_JOB_NUM_NODES=1
+TERM=screen
+SHELL=/bin/bash
+_ModuleTable_Sz_=2
+SLURM_JOB_UID=60409
+SLURM_JOB_PARTITION=RM
+SLURM_PTY_WIN_ROW=74
+TMOUT=1800
+SLURM_JOB_USER=USER
+SLURM_PTY_WIN_COL=137
+TMUX_PANE=%5
+SHLVL=6
+SLURM_SUBMIT_HOST=br013.ib.bridges2.psc.edu
+SLURM_JOB_ACCOUNT=ccr200025p
+MANPATH=/usr/share/lmod/lmod/share/man::/opt/puppetlabs/puppet/share/man
+SLURM_STEP_LAUNCHER_PORT=40091
+MODULEPATH=/opt/modulefiles:/etc/modulefiles:/usr/share/modulefiles:/usr/share/modulefiles/Linux:/usr/share/modulefiles/Core:/usr/share/lmod/lmod/modulefiles/Core
+SLURM_PTY_PORT=33579
+SLURM_GTIDS=0
+LOGNAME=USER
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/60409/bus
+XDG_RUNTIME_DIR=/run/user/60409
+MODULEPATH_ROOT=/usr/share/modulefiles
+PATH=/jet/home/USER/.local/bin:/jet/home/USER/bin:/opt/packages/allocations/bin:/jet/home/USER/.local/bin:/jet/home/USER/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/bin:/opt/packages/interact/bin:/opt/puppetlabs/bin:/bin
+SLURM_JOB_ID=670961
+_LMFILES_=/opt/modulefiles/allocations/1.0.lua
+SLURM_STEP_NUM_TASKS=1
+MODULESHOME=/usr/share/lmod/lmod
+LMOD_SETTARG_FULL_SUPPORT=no
+SALLOC_TIMELIMIT=60
+HISTSIZE=1000
+SLURM_JOB_CPUS_PER_NODE_PACK_GROUP_0=128
+LMOD_PKG=/usr/share/lmod/lmod
+SLURM_STEP_NUM_NODES=1
+LMOD_CMD=/usr/share/lmod/lmod/libexec/lmod
+SLURM_LOCALID=0
+SALLOC_JOB_NAME=Interact
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LMOD_DIR=/usr/share/lmod/lmod/libexec
+BASH_FUNC_module%%=() {  eval $($LMOD_CMD bash "$@") && eval $(${LMOD_SETTARG_CMD:-:} -s sh);
+ /usr/share/lmod/8.2.7/libexec/log_modules "$@"
+}
+BASH_FUNC_ml%%=() {  eval $($LMOD_DIR/ml_cmd "$@")
+}
+LSB Version:	:core-4.1-amd64:core-4.1-noarch:cxx-4.1-amd64:cxx-4.1-noarch:desktop-4.1-amd64:desktop-4.1-noarch:languages-4.1-amd64:languages-4.1-noarch:printing-4.1-amd64:printing-4.1-noarch
+Distributor ID:	CentOS
+Description:	CentOS Linux release 8.2.2004 (Core) 
+Release:	8.2.2004
+Codename:	Core
+Linux r269.ib.bridges2.psc.edu 4.18.0-193.28.1.el8_2.x86_64 #1 SMP Thu Oct 22 00:20:22 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+Architecture:        x86_64
+CPU op-mode(s):      32-bit, 64-bit
+Byte Order:          Little Endian
+CPU(s):              128
+On-line CPU(s) list: 0-127
+Thread(s) per core:  1
+Core(s) per socket:  64
+Socket(s):           2
+NUMA node(s):        2
+Vendor ID:           AuthenticAMD
+CPU family:          23
+Model:               49
+Model name:          AMD EPYC 7742 64-Core Processor
+Stepping:            0
+CPU MHz:             3320.591
+BogoMIPS:            4491.61
+Virtualization:      AMD-V
+L1d cache:           32K
+L1i cache:           32K
+L2 cache:            512K
+L3 cache:            16384K
+NUMA node0 CPU(s):   0-63
+NUMA node1 CPU(s):   64-127
+Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb cat_l3 cdp_l3 hw_pstate ssbd mba ibrs ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 cqm rdt_a rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local clzero irperf xsaveerptr wbnoinvd arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif umip rdpid overflow_recov succor smca
+MemTotal:       263846804 kB
+MemFree:        254964760 kB
+MemAvailable:   255745960 kB
+Buffers:           50580 kB
+Cached:          1701204 kB
+SwapCached:          444 kB
+Active:          1139164 kB
+Inactive:         946328 kB
+Active(anon):     146436 kB
+Inactive(anon):   212852 kB
+Active(file):     992728 kB
+Inactive(file):   733476 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:      733477884 kB
+SwapFree:       733436924 kB
+Dirty:               416 kB
+Writeback:             0 kB
+AnonPages:        329176 kB
+Mapped:           106788 kB
+Shmem:             25432 kB
+KReclaimable:     904084 kB
+Slab:            3635792 kB
+SReclaimable:     904084 kB
+SUnreclaim:      2731708 kB
+KernelStack:       28240 kB
+PageTables:         9648 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    865401284 kB
+Committed_AS:     681488 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+Percpu:           243712 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:    239616 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:     3663796 kB
+DirectMap2M:    257159168 kB
+DirectMap1G:     7340032 kB
+NAME        MAJ:MIN RM   SIZE RO TYPE  MOUNTPOINT
+loop0         7:0    0         1 loop  
+loop1         7:1    0         1 loop  
+loop2         7:2    0         1 loop  
+loop3         7:3    0         1 loop  
+loop4         7:4    0         1 loop  
+loop5         7:5    0         1 loop  
+loop6         7:6    0         1 loop  
+loop7         7:7    0         1 loop  
+loop8         7:8    0         1 loop  
+loop9         7:9    0         1 loop  
+loop10        7:10   0         1 loop  
+loop11        7:11   0         1 loop  
+loop12        7:12   0         1 loop  
+loop13        7:13   0         1 loop  
+loop14        7:14   0         1 loop  
+loop15        7:15   0         1 loop  
+loop16        7:16   0         1 loop  
+loop17        7:17   0         1 loop  
+loop18        7:18   0         1 loop  
+loop19        7:19   0         1 loop  
+loop20        7:20   0         1 loop  
+loop21        7:21   0         1 loop  
+loop22        7:22   0         1 loop  
+loop23        7:23   0         1 loop  
+loop24        7:24   0         1 loop  
+loop25        7:25   0         1 loop  
+loop26        7:26   0         1 loop  
+loop27        7:27   0         1 loop  
+loop28        7:28   0         1 loop  
+loop29        7:29   0         1 loop  
+loop30        7:30   0         1 loop  
+loop31        7:31   0         1 loop  
+loop32        7:32   0         1 loop  
+loop33        7:33   0         1 loop  
+loop34        7:34   0         1 loop  
+loop35        7:35   0         1 loop  
+loop36        7:36   0         1 loop  
+loop37        7:37   0         1 loop  
+loop38        7:38   0         1 loop  
+loop39        7:39   0         1 loop  
+loop40        7:40   0         1 loop  
+loop41        7:41   0         1 loop  
+loop42        7:42   0         1 loop  
+loop43        7:43   0         1 loop  
+loop44        7:44   0         1 loop  
+loop45        7:45   0         1 loop  
+loop46        7:46   0         1 loop  
+loop47        7:47   0         1 loop  
+loop48        7:48   0         1 loop  
+loop49        7:49   0         1 loop  
+loop50        7:50   0         1 loop  
+loop51        7:51   0         1 loop  
+loop52        7:52   0         1 loop  
+loop53        7:53   0         1 loop  
+loop54        7:54   0         1 loop  
+loop55        7:55   0         1 loop  
+loop56        7:56   0         1 loop  
+loop57        7:57   0         1 loop  
+loop58        7:58   0         1 loop  
+loop59        7:59   0         1 loop  
+loop60        7:60   0         1 loop  
+loop61        7:61   0         1 loop  
+loop62        7:62   0         1 loop  
+loop63        7:63   0         1 loop  
+loop64        7:64   0         1 loop  
+loop65        7:65   0         1 loop  
+loop66        7:66   0         1 loop  
+loop67        7:67   0         1 loop  
+loop68        7:68   0         1 loop  
+loop69        7:69   0         1 loop  
+loop70        7:70   0         1 loop  
+loop71        7:71   0         1 loop  
+loop72        7:72   0         1 loop  
+loop73        7:73   0         1 loop  
+loop74        7:74   0         1 loop  
+loop75        7:75   0         1 loop  
+loop76        7:76   0         1 loop  
+loop77        7:77   0         1 loop  
+loop78        7:78   0         1 loop  
+loop79        7:79   0         1 loop  
+loop80        7:80   0         1 loop  
+loop81        7:81   0         1 loop  
+loop82        7:82   0         1 loop  
+loop83        7:83   0         1 loop  
+loop84        7:84   0         1 loop  
+loop85        7:85   0         1 loop  
+loop86        7:86   0         1 loop  
+loop87        7:87   0         1 loop  
+loop88        7:88   0         1 loop  
+loop89        7:89   0         1 loop  
+loop90        7:90   0         1 loop  
+loop91        7:91   0         1 loop  
+loop92        7:92   0         1 loop  
+loop93        7:93   0         1 loop  
+loop94        7:94   0         1 loop  
+loop95        7:95   0         1 loop  
+loop96        7:96   0         1 loop  
+loop97        7:97   0         1 loop  
+loop98        7:98   0         1 loop  
+loop99        7:99   0         1 loop  
+loop100       7:100  0         1 loop  
+loop101       7:101  0         1 loop  
+loop102       7:102  0         1 loop  
+loop103       7:103  0         1 loop  
+loop104       7:104  0         1 loop  
+loop105       7:105  0         1 loop  
+loop106       7:106  0         1 loop  
+loop107       7:107  0         1 loop  
+loop108       7:108  0         1 loop  
+loop109       7:109  0         1 loop  
+loop110       7:110  0         1 loop  
+loop111       7:111  0         1 loop  
+loop112       7:112  0         1 loop  
+loop113       7:113  0         1 loop  
+loop114       7:114  0         1 loop  
+loop115       7:115  0         1 loop  
+loop116       7:116  0         1 loop  
+loop117       7:117  0         1 loop  
+loop118       7:118  0         1 loop  
+loop119       7:119  0         1 loop  
+loop120       7:120  0         1 loop  
+loop121       7:121  0         1 loop  
+loop122       7:122  0         1 loop  
+loop123       7:123  0         1 loop  
+loop124       7:124  0         1 loop  
+loop125       7:125  0         1 loop  
+loop126       7:126  0         1 loop  
+loop127       7:127  0         1 loop  
+nvme0n1     259:0    0   1.8T  0 disk  
+├─nvme0n1p1 259:1    0   512M  0 part  /boot/efi
+├─nvme0n1p2 259:2    0 699.5G  0 part  [SWAP]
+├─nvme0n1p3 259:3    0   300G  0 part  /
+└─nvme0n1p4 259:4    0 788.5G  0 part  
+  └─md0       9:0    0   2.5T  0 raid0 /local
+nvme1n1     259:5    0   1.8T  0 disk  
+└─nvme1n1p1 259:6    0   1.8T  0 part  
+  └─md0       9:0    0   2.5T  0 raid0 /local
+[N:0:65:1]   disk    VO001920KWZQR__1                           /dev/nvme0n1  1.92TB
+[N:1:65:1]   disk    VO001920KWZQR__1                           /dev/nvme1n1  1.92TB
+00:00.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Root Complex
+00:00.2 IOMMU: Advanced Micro Devices, Inc. [AMD] Starship/Matisse IOMMU
+00:01.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+00:01.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse GPP Bridge
+00:02.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+00:03.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+00:04.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+00:05.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+00:07.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+00:07.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+00:08.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+00:08.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+00:14.0 SMBus: Advanced Micro Devices, Inc. [AMD] FCH SMBus Controller (rev 61)
+00:14.3 ISA bridge: Advanced Micro Devices, Inc. [AMD] FCH LPC Bridge (rev 51)
+00:18.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 0
+00:18.1 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 1
+00:18.2 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 2
+00:18.3 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 3
+00:18.4 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 4
+00:18.5 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 5
+00:18.6 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 6
+00:18.7 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 7
+00:19.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 0
+00:19.1 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 1
+00:19.2 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 2
+00:19.3 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 3
+00:19.4 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 4
+00:19.5 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 5
+00:19.6 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 6
+00:19.7 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship Device 24; Function 7
+01:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Function
+01:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+02:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Reserved SPP
+02:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+02:00.3 USB controller: Advanced Micro Devices, Inc. [AMD] Starship USB 3.0 Host Controller
+20:00.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Root Complex
+20:00.2 IOMMU: Advanced Micro Devices, Inc. [AMD] Starship/Matisse IOMMU
+20:01.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+20:01.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse GPP Bridge
+20:01.2 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse GPP Bridge
+20:02.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+20:03.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+20:03.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse GPP Bridge
+20:04.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+20:05.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+20:07.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+20:07.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+20:08.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+20:08.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+21:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Function
+21:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+22:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Reserved SPP
+22:00.1 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Cryptographic Coprocessor PSPCPP
+22:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+22:00.3 USB controller: Advanced Micro Devices, Inc. [AMD] Starship USB 3.0 Host Controller
+24:00.0 Ethernet controller: Intel Corporation I350 Gigabit Network Connection (rev 01)
+40:00.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Root Complex
+40:00.2 IOMMU: Advanced Micro Devices, Inc. [AMD] Starship/Matisse IOMMU
+40:01.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+40:01.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse GPP Bridge
+40:02.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+40:03.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+40:04.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+40:05.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+40:07.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+40:07.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+40:08.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+40:08.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+41:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Function
+41:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+42:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Reserved SPP
+42:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+43:00.0 Infiniband controller: Mellanox Technologies MT28908 Family [ConnectX-6]
+60:00.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Root Complex
+60:00.2 IOMMU: Advanced Micro Devices, Inc. [AMD] Starship/Matisse IOMMU
+60:01.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+60:02.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+60:03.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+60:04.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+60:05.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+60:05.2 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse GPP Bridge
+60:07.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+60:07.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+60:08.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+60:08.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+61:00.0 System peripheral: Hewlett-Packard Company Integrated Lights-Out Standard Slave Instrumentation & System Support (rev 07)
+61:00.1 VGA compatible controller: Matrox Electronics Systems Ltd. MGA G200eH3 (rev 02)
+61:00.2 System peripheral: Hewlett-Packard Company Integrated Lights-Out Standard Management Processor Support and Messaging (rev 07)
+61:00.4 USB controller: Hewlett-Packard Company iLO5 Virtual USB Controller
+62:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Function
+62:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+63:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Reserved SPP
+63:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+80:00.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Root Complex
+80:00.2 IOMMU: Advanced Micro Devices, Inc. [AMD] Starship/Matisse IOMMU
+80:01.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+80:02.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+80:03.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+80:04.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+80:05.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+80:07.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+80:07.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+80:08.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+80:08.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+81:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Function
+81:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+82:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Reserved SPP
+82:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+a0:00.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Root Complex
+a0:00.2 IOMMU: Advanced Micro Devices, Inc. [AMD] Starship/Matisse IOMMU
+a0:01.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+a0:02.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+a0:03.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+a0:04.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+a0:05.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+a0:07.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+a0:07.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+a0:08.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+a0:08.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+a1:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Function
+a1:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+a2:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Reserved SPP
+a2:00.1 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Cryptographic Coprocessor PSPCPP
+a2:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+c0:00.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Root Complex
+c0:00.2 IOMMU: Advanced Micro Devices, Inc. [AMD] Starship/Matisse IOMMU
+c0:01.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+c0:02.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+c0:03.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+c0:04.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+c0:05.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+c0:07.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+c0:07.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+c0:08.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+c0:08.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+c1:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Function
+c1:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+c2:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Reserved SPP
+c2:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+e0:00.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Root Complex
+e0:00.2 IOMMU: Advanced Micro Devices, Inc. [AMD] Starship/Matisse IOMMU
+e0:01.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+e0:02.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+e0:03.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+e0:03.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse GPP Bridge
+e0:03.2 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse GPP Bridge
+e0:04.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+e0:05.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+e0:07.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+e0:07.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+e0:08.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Host Bridge
+e0:08.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Internal PCIe GPP Bridge 0 to bus[E:B]
+e1:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PCIe Dummy Function
+e1:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+e2:00.0 Non-Essential Instrumentation [1300]: Advanced Micro Devices, Inc. [AMD] Starship/Matisse Reserved SPP
+e2:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Starship/Matisse PTDMA
+e3:00.0 Non-Volatile memory controller: Samsung Electronics Co Ltd NVMe SSD Controller PM173X
+e4:00.0 Non-Volatile memory controller: Samsung Electronics Co Ltd NVMe SSD Controller PM173X
